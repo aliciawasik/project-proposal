@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+}
+body {
+    background-color: tan;
+    text-align: center;
+}
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    margin: auto;
+    color: whitesmoke;
+}
+h2 {
+    color: black;
+}
+p {
+    color: black;
+}
