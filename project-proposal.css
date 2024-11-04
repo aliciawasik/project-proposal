@@ -1,5 +1,5 @@
 h1 {
-    color: brown;
+    color: rgb(87, 32, 32);
     font-weight: bold;
     text-align: center;
 }
@@ -11,10 +11,10 @@ ul {
     list-style-type: square;
     list-style-position: inside;
     margin: auto;
-    color: whitesmoke;
+    color: black;
 }
 h2 {
-    color: black;
+    color: rgb(87, 32, 32);
 }
 p {
     color: black;
